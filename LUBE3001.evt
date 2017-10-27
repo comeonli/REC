@@ -1,0 +1,34 @@
+#Luber Parameters
+#Thu Oct 26 17:51:23 CST 2017
+LastSolventAddedTime=1509009712163
+lastLubeDispenseCount=0
+Mandril4=P03643
+Mandril3=A
+Mandril2=P06341
+bathChangeInProgress=false
+lastLubeDispenseContainer=UNKNOWN
+SuperGroupFixtureCount=1
+Mandril1=A
+FilterCount=19
+rightFlowMeter=1.98
+LastSolventType=A
+LastLubeType=A
+BackgroundCassette=YT04673948
+OrphanedMonitor=YV11689183
+LastLubeRatioFailed=false
+LastCleanTime=1508947440500
+LastBathChangeTime=1507704479803
+LastLubeRatioTime=1274056840437
+LastSmearCheckTime=1509005075194
+LastNanoDropletTime=1508998081786
+LastCheckListTime=1509005070126
+LastLubeRatio=44.12
+LastLubeAddedTime=1508926090207
+lastSolventDispenseContainer=UNKNOWN
+lastBathChangeEmailSent=0
+leftFlowMeter=0.56
+BackgroundMonitor=
+DipCount=455410
+LastFilterChangeTime=1479792433681
+TankID=Default
+PullRate=2.5
